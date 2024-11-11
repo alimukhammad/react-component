@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>This is a heading tag</h1>
-    </div>
+    <>
+      <p>this is class component</p>
+    </>
   );
 }
 

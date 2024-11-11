@@ -1,11 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import SampleCompoent from './SampleComponent';
 
 function App() {
   return (
-    <>
-      <p>this is class component</p>
-    </>
+    <SampleCompoent></SampleCompoent>
   );
 }
 
